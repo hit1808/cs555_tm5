@@ -1,0 +1,453 @@
+0 NOTE Savio Dcruz
+0 HEAD
+1 SOUR Family Echo
+2 WWW http://www.familyecho.com/
+1 FILE My Family
+1 DATE 27 JAN 2015
+1 DEST ANSTFILE
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SUBM @I1@
+2 NAME Savio Dcruz
+1 SUBN
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Savio /Dcruz/
+2 GIVN Savio
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX M
+1 BIRT
+2 DATE 3 JUN 1986
+1 FAMC @F1@
+0 @I2@ INDI
+1 NAME Marian /Dcruz/
+2 GIVN Marian
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX M
+1 BIRT
+2 DATE 19 DEC 1958
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I3@ INDI
+1 NAME Antonette /Gracias/
+2 GIVN Antonette
+2 SURN Gracias
+2 _MARNM Dcruz
+1 SEX F
+1 BIRT
+2 DATE 4 AUG 1963
+1 FAMS @F1@
+1 FAMC @F3@
+0 @I4@ INDI
+1 NAME Sharon /Dcruz/
+2 GIVN Sharon
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX F
+1 BIRT
+2 DATE 19 NOV 1988
+1 FAMC @F1@
+0 @I5@ INDI
+1 NAME Reginald /Dcruz/
+2 GIVN Reginald
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX M
+1 FAMS @F2@
+1 FAMC @F4@
+0 @I6@ INDI
+1 NAME Christaline /Gracias/
+2 GIVN Christaline
+2 SURN Gracias
+2 _MARNM Dcruz
+1 SEX F
+1 DEAT Y
+1 FAMS @F2@
+0 @I7@ INDI
+1 NAME Francis /Dcruz/
+2 GIVN Francis
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX M
+1 FAMS @F5@
+1 FAMC @F2@
+0 @I8@ INDI
+1 NAME Jackson /Dcruz/
+2 GIVN Jackson
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX M
+1 FAMS @F6@
+1 FAMC @F2@
+0 @I9@ INDI
+1 NAME John /Dcruz/
+2 GIVN John
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX M
+1 DEAT Y
+2 DATE 13 OCT 2000
+1 FAMC @F2@
+0 @I10@ INDI
+1 NAME Magdaline /Dcruz/
+2 GIVN Magdaline
+2 SURN Dcruz
+2 _MARNM Rego
+1 SEX F
+1 DEAT Y
+2 DATE 19 SEP 1991
+1 FAMS @F7@
+1 FAMC @F2@
+0 @I11@ INDI
+1 NAME Santana /Dcruz/
+2 GIVN Santana
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX F
+1 FAMS @F5@
+0 @I12@ INDI
+1 NAME Kevin /Dcruz/
+2 GIVN Kevin
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX M
+1 FAMC @F5@
+0 @I13@ INDI
+1 NAME Christina /Dcruz/
+2 GIVN Christina
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX F
+1 FAMC @F5@
+0 @I14@ INDI
+1 NAME Lawrence /Gracias/
+2 GIVN Lawrence
+2 SURN Gracias
+2 _MARNM Gracias
+1 SEX M
+1 DEAT Y
+2 DATE 10 JAN 1990
+1 FAMS @F3@
+1 FAMC @F8@
+0 @I15@ INDI
+1 NAME Lucy /Gracias/
+2 GIVN Lucy
+2 SURN Gracias
+2 _MARNM Gracias
+1 SEX F
+1 FAMS @F3@
+0 @I16@ INDI
+1 NAME Ciriaca /Gracias/
+2 GIVN Ciriaca
+2 SURN Gracias
+2 _MARNM Fernandes
+1 SEX F
+1 FAMS @F9@
+1 FAMC @F3@
+0 @I17@ INDI
+1 NAME Savita /Gracias/
+2 GIVN Savita
+2 SURN Gracias
+2 _MARNM Martins
+1 SEX F
+1 FAMS @F10@
+1 FAMC @F3@
+0 @I18@ INDI
+1 NAME Pauline /Gracias/
+2 GIVN Pauline
+2 SURN Gracias
+2 _MARNM Fernandes
+1 SEX F
+1 FAMS @F11@
+1 FAMC @F3@
+0 @I19@ INDI
+1 NAME Peter /Gracias/
+2 GIVN Peter
+2 SURN Gracias
+2 _MARNM Gracias
+1 SEX M
+1 FAMC @F3@
+0 @I20@ INDI
+1 NAME Edwin /Fernandes/
+2 GIVN Edwin
+2 SURN Fernandes
+2 _MARNM Fernandes
+1 SEX M
+1 FAMS @F9@
+0 @I21@ INDI
+1 NAME Austin /Martins/
+2 GIVN Austin
+2 SURN Martins
+2 _MARNM Martins
+1 SEX M
+1 FAMS @F10@
+0 @I22@ INDI
+1 NAME Ignatius /Fernandes/
+2 GIVN Ignatius
+2 SURN Fernandes
+2 _MARNM Fernandes
+1 SEX M
+1 FAMS @F11@
+0 @I23@ INDI
+1 NAME Elita /Martins/
+2 GIVN Elita
+2 SURN Martins
+2 _MARNM Martins
+1 SEX F
+1 FAMC @F10@
+0 @I24@ INDI
+1 NAME Kenisha /Martins/
+2 GIVN Kenisha
+2 SURN Martins
+2 _MARNM Martins
+1 SEX F
+1 FAMC @F10@
+0 @I25@ INDI
+1 NAME Melanie /Fernandes/
+2 GIVN Melanie
+2 SURN Fernandes
+2 _MARNM Fernandes
+1 SEX F
+1 FAMC @F11@
+0 @I26@ INDI
+1 NAME Mervyn /Fernandes/
+2 GIVN Mervyn
+2 SURN Fernandes
+2 _MARNM Fernandes
+1 SEX M
+1 FAMC @F11@
+0 @I27@ INDI
+1 NAME Crystal /Fernandes/
+2 GIVN Crystal
+2 SURN Fernandes
+2 _MARNM Fernandes
+1 SEX F
+1 FAMC @F9@
+0 @I28@ INDI
+1 NAME Carol /Fernandes/
+2 GIVN Carol
+2 SURN Fernandes
+2 _MARNM Fernandes
+1 SEX F
+1 FAMC @F9@
+0 @I29@ INDI
+1 NAME Kareena /Fernandes/
+2 GIVN Kareena
+2 SURN Fernandes
+2 _MARNM Fernandes
+1 SEX F
+1 FAMC @F9@
+0 @I30@ INDI
+1 NAME
+1 SEX M
+1 FAMS @F4@
+0 @I31@ INDI
+1 NAME
+1 SEX F
+1 FAMS @F4@
+0 @I32@ INDI
+1 NAME Caitan /Dcruz/
+2 GIVN Caitan
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX M
+1 DEAT Y
+2 DATE 13 MAY 2000
+1 FAMS @F12@
+1 FAMS @F13@
+1 FAMC @F4@
+0 @I33@ INDI
+1 NAME Veronica /Dcruz/
+2 GIVN Veronica
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX F
+1 FAMS @F12@
+0 @I34@ INDI
+1 NAME Wendy /Dcruz/
+2 GIVN Wendy
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX F
+1 DEAT Y
+2 DATE 16 APR 1990
+1 FAMS @F13@
+0 @I35@ INDI
+1 NAME Hillary /Dcruz/
+2 GIVN Hillary
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX M
+1 FAMC @F13@
+0 @I36@ INDI
+1 NAME Joseph /Dcruz/
+2 GIVN Joseph
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX M
+1 FAMC @F13@
+0 @I37@ INDI
+1 NAME Martha /Dcruz/
+2 GIVN Martha
+2 SURN Dcruz
+2 _MARNM Dsouza
+1 SEX F
+1 FAMC @F13@
+0 @I38@ INDI
+1 NAME Benadin /Dcruz/
+2 GIVN Benadin
+2 SURN Dcruz
+2 _MARNM Fernandes
+1 SEX F
+1 FAMC @F13@
+0 @I39@ INDI
+1 NAME Christina /Dcruz/
+2 GIVN Christina
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX F
+1 FAMC @F12@
+0 @I40@ INDI
+1 NAME Raymond /Dcruz/
+2 GIVN Raymond
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX M
+1 FAMC @F12@
+0 @I41@ INDI
+1 NAME Mary /Dcruz/
+2 GIVN Mary
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX F
+1 FAMS @F6@
+0 @I42@ INDI
+1 NAME Jennifer /Dcruz/
+2 GIVN Jennifer
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX F
+1 FAMC @F6@
+0 @I43@ INDI
+1 NAME Cynthia /Dcruz/
+2 GIVN Cynthia
+2 SURN Dcruz
+2 _MARNM Dcruz
+1 SEX F
+1 FAMC @F6@
+0 @I44@ INDI
+1 NAME Jerson /Rego/
+2 GIVN Jerson
+2 SURN Rego
+2 _MARNM Rego
+1 SEX M
+1 FAMS @F7@
+0 @I45@ INDI
+1 NAME Joanna /Rego/
+2 GIVN Joanna
+2 SURN Rego
+2 _MARNM Rego
+1 SEX F
+1 FAMC @F7@
+0 @I46@ INDI
+1 NAME /Gracias/
+2 SURN Gracias
+2 _MARNM Gracias
+1 SEX M
+1 FAMS @F8@
+0 @I47@ INDI
+1 NAME /Gracias/
+2 SURN Gracias
+2 _MARNM Gracias
+1 SEX F
+1 FAMS @F8@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 CHIL @I4@
+1 MARR
+1 _CURRENT Y
+0 @F2@ FAM
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I2@
+1 CHIL @I7@
+1 CHIL @I8@
+1 CHIL @I9@
+1 CHIL @I10@
+1 _CURRENT N
+0 @F3@ FAM
+1 HUSB @I14@
+1 WIFE @I15@
+1 CHIL @I3@
+1 CHIL @I16@
+1 CHIL @I17@
+1 CHIL @I18@
+1 CHIL @I19@
+1 _CURRENT Y
+0 @F4@ FAM
+1 HUSB @I30@
+1 WIFE @I31@
+1 CHIL @I5@
+1 CHIL @I32@
+1 _CURRENT Y
+0 @F5@ FAM
+1 HUSB @I7@
+1 WIFE @I11@
+1 CHIL @I12@
+1 CHIL @I13@
+1 _CURRENT Y
+0 @F6@ FAM
+1 HUSB @I8@
+1 WIFE @I41@
+1 CHIL @I42@
+1 CHIL @I43@
+1 _CURRENT Y
+0 @F7@ FAM
+1 HUSB @I44@
+1 WIFE @I10@
+1 CHIL @I45@
+1 _CURRENT Y
+0 @F8@ FAM
+1 HUSB @I46@
+1 WIFE @I47@
+1 CHIL @I14@
+1 _CURRENT Y
+0 @F9@ FAM
+1 HUSB @I20@
+1 WIFE @I16@
+1 CHIL @I27@
+1 CHIL @I28@
+1 CHIL @I29@
+1 _CURRENT Y
+0 @F10@ FAM
+1 HUSB @I21@
+1 WIFE @I17@
+1 CHIL @I23@
+1 CHIL @I24@
+1 _CURRENT Y
+0 @F11@ FAM
+1 HUSB @I22@
+1 WIFE @I18@
+1 CHIL @I25@
+1 CHIL @I26@
+1 _CURRENT Y
+0 @F12@ FAM
+1 HUSB @I32@
+1 WIFE @I33@
+1 CHIL @I39@
+1 CHIL @I40@
+1 _CURRENT Y
+0 @F13@ FAM
+1 HUSB @I32@
+1 WIFE @I34@
+1 CHIL @I35@
+1 CHIL @I36@
+1 CHIL @I37@
+1 CHIL @I38@
+1 _CURRENT N
+0 TRLR
